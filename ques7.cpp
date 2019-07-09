@@ -13,7 +13,7 @@ int main()
           count++;
         }
     }
-    if(count>=1)
+    if(count==s.length())
     {
         cout<<"yes";
     }
